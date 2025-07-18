@@ -11,3 +11,5 @@ yarn-error.log*
 # Optional: OS/IDE-specific
 .DS_Store
 .vscode/
+
+build/
